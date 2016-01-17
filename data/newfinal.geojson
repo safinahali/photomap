@@ -1,0 +1,583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20151231_185425",
+        "desc": "IMG_20151231_185425",
+        "time": "2015-12-28T11:52:12Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943559639,
+          40.453553611,
+          291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20151231_192722",
+        "desc": "IMG_20151231_192722",
+        "time": "2015-12-28T11:52:12Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943559639,
+          40.453553611,
+          291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20151231_193848",
+        "desc": "IMG_20151231_193848",
+        "time": "2015-12-28T11:52:12Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943559639,
+          40.453553611,
+          291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_033346",
+        "desc": "IMG_20160101_033346",
+        "time": "2016-01-01T01:16:40Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009528972,
+          40.714751417,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_034224",
+        "desc": "IMG_20160101_034224",
+        "time": "2016-01-01T01:16:40Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009528972,
+          40.714751417,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_035913",
+        "desc": "IMG_20160101_035913",
+        "time": "2016-01-01T01:16:40Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009528972,
+          40.714751417,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_045402",
+        "desc": "IMG_20160101_045402",
+        "time": "2016-01-01T01:16:40Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009528972,
+          40.714751417,
+          78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_132933",
+        "desc": "IMG_20160101_132933",
+        "time": "2016-01-01T13:23:49Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014967667,
+          40.703626861,
+          -36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_140359",
+        "desc": "IMG_20160101_140359",
+        "time": "2016-01-01T13:23:49Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014967667,
+          40.703626861,
+          -36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_171049",
+        "desc": "IMG_20160101_171049",
+        "time": "2016-01-01T13:23:49Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014967667,
+          40.703626861,
+          -36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_171119",
+        "desc": "IMG_20160101_171119",
+        "time": "2016-01-01T13:23:49Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014967667,
+          40.703626861,
+          -36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_191618",
+        "desc": "IMG_20160101_191618",
+        "time": "2016-01-01T13:23:49Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014967667,
+          40.703626861,
+          -36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_212154",
+        "desc": "IMG_20160101_212154",
+        "time": "2016-01-02T02:21:43Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979181778,
+          40.758966,
+          244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160101_212222",
+        "desc": "IMG_20160101_212222",
+        "time": "2016-01-02T02:22:20Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979304972,
+          40.758864194,
+          263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160106_144441",
+        "desc": "IMG_20160106_144441",
+        "time": "2016-01-06T19:44:37Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.960930778,
+          40.469943278,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160107_232042",
+        "desc": "IMG_20160107_232042",
+        "time": "2016-01-08T03:38:20Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.973898472,
+          40.432434917,
+          210
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160110_194226",
+        "desc": "IMG_20160110_194226",
+        "time": "2016-01-10T17:52:00Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.944747083,
+          40.454176056,
+          224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160112_112525",
+        "desc": "IMG_20160112_112525",
+        "time": "2016-01-12T04:40:32Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.949505306,
+          40.445673444,
+          260
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160113_151410",
+        "desc": "IMG_20160113_151410",
+        "time": "2016-01-13T20:14:07Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.950198889,
+          40.445719389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160113_151417",
+        "desc": "IMG_20160113_151417",
+        "time": "2016-01-13T20:14:07Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.950198889,
+          40.445719389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160113_151438",
+        "desc": "IMG_20160113_151438",
+        "time": "2016-01-13T20:14:38Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.950425389,
+          40.445394389,
+          173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160116_231359",
+        "desc": "IMG_20160116_231359",
+        "time": "2016-01-17T04:13:56Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943709472,
+          40.453547694,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160116_231405",
+        "desc": "IMG_20160116_231405",
+        "time": "2016-01-17T04:13:56Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943709472,
+          40.453547694,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160116_231409",
+        "desc": "IMG_20160116_231409",
+        "time": "2016-01-17T04:13:56Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943709472,
+          40.453547694,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160116_231416",
+        "desc": "IMG_20160116_231416",
+        "time": "2016-01-17T04:14:15Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943711694,
+          40.453548389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094040",
+        "desc": "IMG_20160117_094040",
+        "time": "2016-01-17T14:40:40Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943256,
+          40.451723889,
+          242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094042",
+        "desc": "IMG_20160117_094042",
+        "time": "2016-01-17T14:40:41Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943256,
+          40.451723889,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094228",
+        "desc": "IMG_20160117_094228",
+        "time": "2016-01-17T14:42:22Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943255694,
+          40.451722389,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094536",
+        "desc": "IMG_20160117_094536",
+        "time": "2016-01-17T14:45:32Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942382778,
+          40.448120083,
+          264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094659",
+        "desc": "IMG_20160117_094659",
+        "time": "2016-01-17T14:46:55Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942536389,
+          40.447477972,
+          299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_094938",
+        "desc": "IMG_20160117_094938",
+        "time": "2016-01-17T14:45:50Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942547278,
+          40.446969778,
+          270
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_095051",
+        "desc": "IMG_20160117_095051",
+        "time": "2016-01-17T14:49:38Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942560889,
+          40.445391778,
+          261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_095123",
+        "desc": "IMG_20160117_095123",
+        "time": "2016-01-17T14:51:10Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942825472,
+          40.444449778,
+          285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160117_095412",
+        "desc": "IMG_20160117_095412",
+        "time": "2016-01-17T14:54:10Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.943273194,
+          40.442453583,
+          226
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMG_20160106_144441",
+        "desc": "IMG_20160106_144441",
+        "time": "2016-01-06T19:44:37Z",
+        "sym": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.960930778,
+          40.469943278,
+          0
+        ]
+      }
+    }
+  ]
+}
