@@ -34,14 +34,14 @@
 
 		//add tooltip style first tho 
 		function popUp(f,l){
-		    var popUpcontent = 
-		    '<a href=/img/'+f.properties.name+'.jpg><img src="./img/'+f.properties.name+'.jpg" width="250"style="padding:1px; margin:1px;"></a>';
+		    var popUpcontent = f.properties.Place;
+		    //'<a href=/img/'+f.properties.name+'.jpg><img src="./img/'+f.properties.name+'.jpg" width="250"style="padding:1px; margin:1px;"></a>';
 		    l.bindPopup(popUpcontent);
 		    };
 
 
 		var xhr = new XMLHttpRequest();
-		xhr.open('GET', './data/newfinal.geojson');
+		xhr.open('GET', './data/meteorites_2.geojson');
 		xhr.onload = function() {
 		    if (xhr.status === 200) {
 		        data = JSON.parse(xhr.responseText);
